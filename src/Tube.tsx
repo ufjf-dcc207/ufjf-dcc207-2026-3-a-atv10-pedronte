@@ -1,5 +1,5 @@
 import './Tube.css';
-import type { Color } from './types'; // Adicionado 'type'
+import type { Color } from './types'; 
 
 export interface TubeProps {
   items: Color[];
